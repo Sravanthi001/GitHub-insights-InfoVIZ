@@ -1,4 +1,4 @@
-# GitHub Viz
+# GitHub insights in Top Repositories - Info VIZ
 The projects provides insights on the users statistics and distribution of the top programming languages in the world.
 
 # Requirements
@@ -32,4 +32,6 @@ The projects provides insights on the users statistics and distribution of the t
   | <img src="./pictures/viz.png" width="1000"/>         |
 
 #
-// #### Live site is found on this [link](http://www.cs.odu.edu/~rrachama/github_viz/)
+<!-- #### Live site is found on this [link](http://www.cs.odu.edu/~rrachama/github_viz/) -->
+
+
